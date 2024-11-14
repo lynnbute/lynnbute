@@ -11,7 +11,7 @@ Hi! I'm Buteraba Lynatte, a passionate tech enthusiast and Odoo certified functi
 Languages: Python 🐍, JavaScript 🌐, HTML5 & CSS3 🎨
 Frameworks: Flask 🌶️, Django 🌱, Flutter 📱
 Databases: MySQL 💾
-Tools: Git & GitHub 🐙, GitLab 🦊, Docker 🐳, Jenkins ⚙️, GitHub Actions 🚀
+Tools: Git & GitHub 🐙, GitLab 🦊, Docker 🐳, GitHub Actions 🚀
 Machine Learning: TensorFlow 🔮
 
 🔨 Current Projects
